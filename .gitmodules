@@ -4,3 +4,6 @@
 [submodule "examples/llm-examples"]
 	path = examples/llm-examples
 	url = git@github.com:streamlit/llm-examples.git
+[submodule "examples/Essay_Writing_Assistant"]
+	path = examples/Essay_Writing_Assistant
+	url = git@github.com:Chin-Wai-Yee/Essay_Writing_Assistant.git
