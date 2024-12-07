@@ -1,0 +1,6 @@
+[submodule "examples/demo-self-driving"]
+	path = examples/demo-self-driving
+	url = git@github.com:streamlit/demo-self-driving.git
+[submodule "examples/llm-examples"]
+	path = examples/llm-examples
+	url = git@github.com:streamlit/llm-examples.git
