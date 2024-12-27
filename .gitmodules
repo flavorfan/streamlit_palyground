@@ -7,3 +7,6 @@
 [submodule "examples/Essay_Writing_Assistant"]
 	path = examples/Essay_Writing_Assistant
 	url = git@github.com:Chin-Wai-Yee/Essay_Writing_Assistant.git
+[submodule "examples/CV-Extraction-and-Classification-Based-on-NLP"]
+	path = examples/CV-Extraction-and-Classification-Based-on-NLP
+	url = https://github.com/chaimabenabda2/CV-Extraction-and-Classification-Based-on-NLP.git
